@@ -1,0 +1,11 @@
+FoodItem,Recommendations
+Biryani,"Sushi, Sandwich, Salad, Wrap, Coffee"
+Burger,"Coffee, Sandwich, Wrap, Sushi, Salad"
+Coffee,"Taco, Burger, Biryani, Wrap, Sushi"
+Pasta,"Taco, Wrap, Salad, Pizza, Coffee"
+Pizza,"Salad, Sushi, Sandwich, Wrap, Coffee"
+Salad,"Sandwich, Pizza, Biryani, Burger, Wrap"
+Sandwich,"Sushi, Biryani, Salad, Burger, Taco"
+Sushi,"Sandwich, Biryani, Taco, Pizza, Burger"
+Taco,"Sushi, Coffee, Pasta, Sandwich, Burger"
+Wrap,"Biryani, Coffee, Burger, Pizza, Sushi"
